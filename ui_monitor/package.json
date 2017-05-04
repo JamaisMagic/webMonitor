@@ -1,0 +1,8 @@
+{
+  "name": "ui_monitor",
+  "version": "0.0.1",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "phantom": "^2.1.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "page_monitor",
+    "author": "Jamais",
+    "version": "0.0.1",
+    "dependencies": {
+        "nodemailer": "^4.0.1",
+        "request": "^2.81.1",
+        "later": "^1.2.0"
+    }
+}

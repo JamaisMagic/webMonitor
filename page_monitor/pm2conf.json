@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "page_monitor",
+      "script": "./main.js",
+      "watch": true,
+      "instances": 1,
+      "env": {
+        "NODE_ENV": "development"
+      },
+      "env_production" : {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
