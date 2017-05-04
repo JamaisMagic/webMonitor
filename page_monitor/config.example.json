@@ -1,0 +1,17 @@
+{
+  "mailer": {
+    "service": "QQ",
+    "host": "smtp.qq.com",
+    "secureConnection": true,
+    "port": 465,
+    "auth": {
+      "user": "1111111111@qq.com",
+      "pass": "123456"
+    }
+  },
+  "to_author": ["1111111111@qq.com"],
+  "to_all": ["1111111111@qq.com"],
+  "urls": [
+    "http://www.baidu.com"
+  ]
+}

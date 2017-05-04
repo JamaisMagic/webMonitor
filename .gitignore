@@ -5,4 +5,4 @@ node_modules/
 *.pyc
 supervisord.log
 supervisord.pid
-
+page_monitor/config.json
